@@ -1,5 +1,6 @@
 * {
   margin: 0;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 .container1 {
     width: 100%;
@@ -109,4 +110,36 @@
 }
 .text1{
     padding-left: 75px;
+}
+.container2{
+    width: 85%;
+    margin: auto;
+    display: flex;
+    gap: 90px;
+    margin-top: 140px; 
+    margin-bottom: 140px;
+}
+.in-container3{
+    width: 700px;
+    padding-left: 50px;
+}
+.parag1{
+    color: rgba(66, 69, 81, 1);
+    font-size: 19px;
+    padding-top: 15px;
+}
+.button4{
+    width: 230px;
+    height: 50px;
+    margin-top: 65px;
+    margin-left: -20px;
+    justify-content: center;
+    background-color: rgba(247, 94, 5, 1);
+    color: white;
+    border: none;
+    font-size: 18px;
+    font-weight: 550;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    letter-spacing: 0.5px;
+    border-radius: 5px;
 }
